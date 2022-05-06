@@ -249,6 +249,8 @@ Restart Nginx Service
 
     service nginx restart
 
+*Note: if you want to block on random range IP same as 172.20.1.3-172.20.1.20. You can get the CIDR for your IP address range using IP to CIDR tools: https://www.ipaddressguide.com/cidr.*
+
 ![](https://i.imgur.com/vabyH02.png)
 
 # Use ApacheBench for web server performance testing
